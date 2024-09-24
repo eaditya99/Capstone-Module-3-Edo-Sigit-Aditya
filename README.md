@@ -1,4 +1,4 @@
-# Capstone-Module-3-Edo-Sigit-Aditya
+# Machine Learning development of Bike Sharing company
 
 Bike-Sharing Demand Prediction
 Project Overview :
